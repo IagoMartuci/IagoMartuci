@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://github.com/IagoMartuci">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMartuci&layout=compact&langs_count=7&theme=default&bg_color=00000000&border_color=00000000&text_color=99d1ce&title_color=00AEFF&icon_color=ffb74d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoMartuci&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000&text_color=0CF574&title_color=00AEFF&icon_color=ffb74d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoMartuci&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000&text_color=99d1ce&title_color=00AEFF&icon_color=ffb74d"/>
 </div >
 <br>
 <div align="center">
