@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
-
+  
 <div>
 <a href="https://github.com/IagoMartuci">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMartuci&layout=compact&langs_count=7&theme=blue-green&bg_color=00000000&border_color=00000000"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=IagoMartuci&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMartuci&layout=compact&langs_count=7&theme=default&bg_color=00000000&border_color=00000000&text_color=0CF574&title_color=00AEFF&icon_color=ffb74d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoMartuci&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000&text_color=0CF574&title_color=00AEFF&icon_color=ffb74d"/>
 </div>
 
 <!--**IagoMartuci/IagoMartuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
