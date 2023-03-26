@@ -3,7 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Iago%20Martuci-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iagomartuci/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:martuciiago1992@gmail.com)
-[![View Counter](https://komarev.com/ghpvc/?username=IagoMartuci&style=flat-square)](https://github.com/IagoMartuci)
 
 <div align="center">
 <a href="https://github.com/IagoMartuci">
