@@ -16,16 +16,21 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="CSharp" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
-  <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" title=".NET MAUI" alt=".NET MAUI" width="35" height="35"/>&nbsp;
+<img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" title=".NET MAUI" alt=".NET MAUI" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Html" alt="Html" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="35" height="35"/>&nbsp;
   
 ### But I prefer backend, than frontend... 😅
+
+<div aligin="center">
+<img src"https://profile-counter.gliych.me/IagoMartuci/count.svg">
+</div>
+
 
 <!--**IagoMartuci/IagoMartuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
