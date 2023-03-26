@@ -1,4 +1,3 @@
-<!-- ### Hi there 👋 -->
 ## Hi there 👋, I'm Iago Martuci 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Iago%20Martuci-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iagomartuci/)
@@ -26,22 +25,8 @@
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="35" height="35"/>&nbsp;
   
 ### But I prefer backend, than frontend... 😅
+<br>
 
-<div aligin="center">
-<img src"https://profile-counter.gliych.me/IagoMartuci/count.svg">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/IagoMartuci/count.svg" />
 </div>
-
-
-<!--**IagoMartuci/IagoMartuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
