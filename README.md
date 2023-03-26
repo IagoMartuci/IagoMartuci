@@ -23,6 +23,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Mysql Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="Microsoft SQL Server" width="50" height="50"/>&nbsp;
+  
+### But I prefer backend, than frontend... 😅
 
 <!--**IagoMartuci/IagoMartuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
