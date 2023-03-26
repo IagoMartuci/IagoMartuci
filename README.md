@@ -13,16 +13,16 @@
 <br>
 
 ### Programming languages and tools I know:
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Mysql Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="Microsoft SQL Server" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="35" height="35"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="35" height="35"/>
+<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="Microsoft SQL Server" width="35" height="35"/>&nbsp;
   
 ### But I prefer backend, than frontend... 😅
 
