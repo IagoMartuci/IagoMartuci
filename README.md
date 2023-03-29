@@ -25,3 +25,8 @@
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="35" height="35"/>&nbsp;
   
 ### But I prefer backend, than frontend... 😅
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/IagoMartuci/count.svg" />
+</div>
