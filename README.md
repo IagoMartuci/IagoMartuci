@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Iago Martuci 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Iago%20Martuci-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iagomartuci/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:martuciiago1992@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iagomartuci/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:imdev@outlook.com.br)
 
 <div align="center">
 <a href="https://github.com/IagoMartuci">
